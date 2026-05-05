@@ -70,7 +70,7 @@ EMAIL_PASSWORD = "your_app_password"  # SMTP  Password**
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/route53-domain-scanner.git
+git clone https://github.com/mrumaraziz/route53-domain-scanner.git
 cd route53-domain-scanner
 
 🐧 Linux/Ubuntu Installation Commands
